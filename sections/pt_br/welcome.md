@@ -14,6 +14,10 @@ Sinta-se livre para contribuir.
 
 * [Dinamarquês](http://www.phpthewrongway.com/da/)
 * [Espanhol](http://www.phpthewrongway.com/es/)
+* [Francês](http://www.phpthewrongway.com/fr/)
+* [Japonês](http://www.phpthewrongway.com/ja/)
 * [Inglês](http://www.phpthewrongway.com/)
-* [Russo](http://www.phpthewrongway.com/ru)
-* [Português](http://www.phpthewrongway.com/pt_BR)
+* [Persa](http://www.phpthewrongway.com/fa/)
+* [Português](http://www.phpthewrongway.com/pt_BR/)
+* [Russo](http://www.phpthewrongway.com/ru/)
+* [Türkçe](http://www.phpthewrongway.com/tr/)
